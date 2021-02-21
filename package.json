@@ -1,12 +1,12 @@
 {
   "name": "be-the-hero-web",
   "description": "🦸‍♀️🦸‍♂️ Register your NGO on our platform, to find a hero to help your cause.",
+  "main": "./src/index.js",
   "repository": "https://github.com/caiohenrique-developer/be-the-hero-web.git",
   "bugs": {
     "url": "https://github.com/caiohenrique-developer/be-the-hero-web/issues"
   },
-  "homepage": "https://github.com/caiohenrique-developer/be-the-hero-web#readme",
-  "author": "Caio Henrique <caiohenrique.developer@gmail.com>",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com> (https://www.linkedin.com/in/caio-henrique-024627171/)",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
