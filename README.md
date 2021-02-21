@@ -60,18 +60,18 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   _From your `command line` follow these steps..._
 
   ```bash
-    # Clone the project
-    $ git clone https://github.com/caiohenrique-developer/be-the-hero-web 'BeTheHero-Web' && cd 'BeTheHero-Web'
+  # Clone the project
+  $ git clone https://github.com/caiohenrique-developer/be-the-hero-web 'BeTheHero-Web' && cd 'BeTheHero-Web'
 
-    # Install dependencies
-    $ yarn
-    # or
-    $ npm i
+  # Install dependencies
+  $ yarn
+  # or
+  $ npm i
 
-    # Start the project
-    $ yarn start
+  # Start the project
+  $ yarn start
 
-    # Very well, now you can enjoy this project ;)
+  # Very well, now you can enjoy this project ;)
   ```
 
   + <details>
