@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="/">
+  <a href="#">
     <img alt="Be The Hero logotipo" src="src/assets/logo.svg" />
   </a>
 </h1>
