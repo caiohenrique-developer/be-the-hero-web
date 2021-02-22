@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="Be The Hero mockup image" src="src/assets/mockup.svg" width="100%" />
+  <img alt="Be The Hero mockup image" src="src/assets/mockup2.svg" width="100%" />
 </p>
 
 ## :flying_saucer: Technologies
